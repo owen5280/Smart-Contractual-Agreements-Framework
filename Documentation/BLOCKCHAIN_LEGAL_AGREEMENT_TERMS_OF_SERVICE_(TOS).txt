@@ -1,0 +1,36 @@
+BLOCKCHAIN LEGAL AGREEMENT TERMS OF SERVICE (TOS)
+This Terms of Service or ("Agreement") has been entered into on the date of [DATE]
+This Terms of Service document; agreement ("Agreement") is comprised in part through this document ("Document"), following contractual agreement document ("Document), and through a smart contract ("Smart Contract") which will be deployed on the Ethereum network ("Blockchain") to an address known to the Agreement's parties. Both the Documents and the Smart Contract are integral to the Agreement.
+
+1. Parties: The parties ("Parties") involved with this agreement: PARTY1, PARTY2, PARTY3, .... The Parties will be identified by their respective public addresses on the Ethereum network. Each involved Parties' address will be stored in their respective field of the Smart Contract.
+
+2. Proof of Identity: All involved parties certify that the information provided to this contract are true and correct and that the hash ("Hash") created from said information qualifies as said party's reproducible, verifiable identity ("Identity") usable for all signing and verification processes. Each involved Parties' hash will be stored in their respective field of the Smart Contract.
+
+3. Agreement: Parties involved with this and the following contractual agreement agree that their respective Identities and signatures are true and correct and are binding in the court of law.
+
+4. Transparency: Parties involved acknowledge and understand that the documents being agreed to are forever stored on a public ledger and that even though only the parties involved may access the readable contents, this agreement will forever exist in some state as determined by the 'status' field.
+
+5. Additional Terms:
+5A. In the event there is a conflict between this Document and the Smart Contract, the terms of the Smart Contract will control.
+5B. Each of the Parties is responsible for their own costs (e.g., "gas" on the Ethereum network) for executing transactions against the Smart Contract.
+5C. If any provision of this Agreement is held to be unenforceable, the Parties wish that the remaining provisions of the Agreement continue to be enforced.
+5D. The terms of this Agreement shall be interpreted by the local laws of the deploying Parties' jurisdiction. Any disputes shall be resolved in a tribunal local to the deploying Parties'. Venue shall be at a location determined by deploying Parties' within the jurisdiction.
+
+6. Performance: The Agreement will be performed when the following functions have been called and/or fields populated by the Parties in the Smart Contract. To the extent permitted by law, the sequence of events of the Smart Contract is not important to the Agreement.
+- 'party' structures have been populated;
+- 'Status' has been set to 'Active';
+- BLOCKCHAIN LEGAL AGREEMENT TERMS OF SERVICE (TOS) has been signed.
+- contracts have been signed;
+- a copy of this Document has been stored in the 'contract' array;
+- a copy of appended contract Document/s has been stored in the 'contract' array;
+- contractArray has been hashed and encrypted;
+- a copy of the contractPacket has been stored on an immutable file system;
+- parties have recieved their respective 'keys' and the 'location' of the contractPacket within the immutable file system;
+
+PARTY1
+Signature: [PARTY1.SIGNATURE]
+Typed or Printed Name: [PARTY1.NAME] Date: [PARTY1.SIGNDATE]	
+
+PARTY2
+Signature: [PARTY2.SIGNATURE]
+Typed or Printed Name: [PARTY2.NAME] Date: [PARTY2.SIGNDATE]

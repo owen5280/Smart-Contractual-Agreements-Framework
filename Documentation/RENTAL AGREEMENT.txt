@@ -1,0 +1,48 @@
+RENTAL AGREEMENT
+
+This Rental Agreement ("Agreement") is made and entered into on [CONTRACT.DATE] between:
+
+Landlord: [LANDLORD.NAME], residing at [LANDLORD.ADDRESS] ("Landlord")
+
+Tenant: [TENANT.NAME], residing at [TENANT.ADDRESS] ("Tenant")
+
+1. Property Description:
+   The Landlord agrees to rent to the Tenant the property located at [PROPERTY.ADDRESS] ("Property").
+
+2. Term:
+   The term of this Agreement shall commence on [START.DATE] and continue until [END.DATE].
+
+3. Rent:
+   Tenant agrees to pay rent in the amount of [RENT_AMOUNT] per month. Rent shall be due on the [DUE_DATE] of each month.
+
+4. Security Deposit:
+   Tenant agrees to pay a security deposit in the amount of [SECURITY_DEPOSIT_AMOUNT] upon signing this Agreement. This deposit will be held by the Landlord as security for any damages to the Property.
+
+5. Use of Property:
+   Tenant agrees to use the Property solely for residential purposes and shall not sublet or assign the Property without the Landlord's written consent.
+
+6. Maintenance and Repairs:
+   Tenant shall maintain the Property in good condition and promptly notify the Landlord of any repairs needed.
+
+7. Utilities:
+   [UTILITY_DETAILS]
+
+8. Termination:
+   Either party may terminate this Agreement by providing [NOTICE_PERIOD] days' written notice to the other party.
+
+9. Governing Law:
+   This Agreement shall be governed by the laws of [STATE/COUNTRY].
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+LANDLORD
+
+Signature: [LANDLORD.SIGNATURE]
+
+Printed Name: [LANDLORD.NAME] Date: [LANDLORD.SIGNDATE]
+
+TENANT
+
+Signature: [TENANT.SIGNATURE]
+
+Printed Name: [TENANT.NAME] Date: [TENANT.SIGNDATE]
